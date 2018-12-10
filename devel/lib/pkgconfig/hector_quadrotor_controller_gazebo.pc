@@ -1,0 +1,8 @@
+prefix=/home/sanjuksha/MotionPlanning/project/hec_ws/devel
+
+Name: hector_quadrotor_controller_gazebo
+Description: Description of hector_quadrotor_controller_gazebo
+Version: 0.3.5
+Cflags: -I/home/sanjuksha/MotionPlanning/project/hec_ws/src/hector_quadrotor/hector_quadrotor_controller_gazebo/include
+Libs: -L/home/sanjuksha/MotionPlanning/project/hec_ws/devel/lib -lhector_quadrotor_controller_gazebo
+Requires: gazebo_ros_control hector_quadrotor_interface

@@ -1,0 +1,8 @@
+prefix=/home/sanjuksha/MotionPlanning/project/hec_ws/devel
+
+Name: hector_slam_launch
+Description: Description of hector_slam_launch
+Version: 0.3.5
+Cflags: 
+Libs: -L/home/sanjuksha/MotionPlanning/project/hec_ws/devel/lib 
+Requires: 

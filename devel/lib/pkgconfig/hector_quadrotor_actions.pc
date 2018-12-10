@@ -1,0 +1,8 @@
+prefix=/home/sanjuksha/MotionPlanning/project/hec_ws/devel
+
+Name: hector_quadrotor_actions
+Description: Description of hector_quadrotor_actions
+Version: 0.0.0
+Cflags: -I/home/sanjuksha/MotionPlanning/project/hec_ws/src/hector_quadrotor/hector_quadrotor_actions/include
+Libs: -L/home/sanjuksha/MotionPlanning/project/hec_ws/devel/lib 
+Requires: roscpp

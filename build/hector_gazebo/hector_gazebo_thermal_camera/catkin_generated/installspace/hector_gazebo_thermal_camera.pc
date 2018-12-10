@@ -1,0 +1,8 @@
+prefix=/home/sanjuksha/MotionPlanning/project/hec_ws/install
+
+Name: hector_gazebo_thermal_camera
+Description: Description of hector_gazebo_thermal_camera
+Version: 0.5.1
+Cflags: -I/home/sanjuksha/MotionPlanning/project/hec_ws/install/include
+Libs: -L/home/sanjuksha/MotionPlanning/project/hec_ws/install/lib 
+Requires: gazebo_plugins
